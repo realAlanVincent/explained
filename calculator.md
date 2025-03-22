@@ -196,13 +196,6 @@ The button uses the `onclick` attribute to connect a user action (clicking) to t
 ### 4. Conditional Logic
 The `if...else if...else` structure creates a decision tree for different mathematical operations.
 
-### 5. Allman Style Characteristics
-Notice these Allman style features:
-- Opening braces appear on their own line
-- The opening brace is aligned with the statement that begins the block
-- All code within a block is indented consistently
-- Closing braces align with the opening statement
-
 ## How the Calculator Works
 
 1. The user enters two numbers and an operator
